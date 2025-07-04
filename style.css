@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(0, 255, 149);
+    color: rgb(84, 84, 255);
     text-align: center;
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
@@ -12,7 +12,7 @@ p {
     font-weight: weight;
     font-style: normal;
     text-align: center;
-    color: rgb(46, 185, 231);
+    color: rgb(84, 84, 255);
 }
 
 a {
@@ -20,6 +20,17 @@ a {
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    color: blue;
+    color: rgb(84, 84, 255);
     font-size: 15px;
+}
+
+hr {
+    width:100%
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 140px;
 }
