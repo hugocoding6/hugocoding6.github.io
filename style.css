@@ -4,22 +4,25 @@ h1 {
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
     font-style: italic;
+    font-size: 30px;
 }
 
 h2 {
-  color: rgb(255, 0, 0);
+    color: rgb(255, 143, 240);
     text-align: center;
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
     font-style: italic;
+    font-size: 30px;
 }
 
 h3 {
-  color: rgb(255, 0, 0);
+    color: rgb(112, 179, 255);
     text-align: center;
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
     font-style: italic;
+    font-size: 30px;
 }
 
 p {
@@ -28,7 +31,7 @@ p {
     font-weight: weight;
     font-style: normal;
     text-align: center;
-    color: rgb(90, 162, 255);
+    color: rgb(90, 161, 255);
 }
 
 a {
@@ -70,4 +73,8 @@ hr {
 .column {
   flex: 33.33%;
   padding: 5px;
+}
+
+img {
+  border-radius: 10%;
 }
