@@ -94,7 +94,7 @@ body, html {
   cursor: pointer;
   padding: 14px 16px;
   font-size: 17px;
-  width:50%;
+  width:33%;
 }
 
 .tablink:hover {
@@ -108,5 +108,7 @@ body, html {
   height: 100%;
 }
 
-#Home {background-color: red;}
-#News {background-color: green;}
+#AboutMe {background-color: white;}
+#VideoGames {background-color: white;}
+#Youtubers {background-color: white;}
+
