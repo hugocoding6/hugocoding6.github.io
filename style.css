@@ -3,25 +3,25 @@ h1 {
     text-align: center;
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
     font-size: 30px;
 }
 
 h2 {
-    color: rgb(255, 143, 240);
+    color: orangered;
     text-align: center;
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
     font-size: 30px;
 }
 
 h3 {
-    color: rgb(112, 179, 255);
+    color: blue;
     text-align: center;
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
     font-size: 30px;
 }
 
@@ -82,7 +82,7 @@ img {
 body, html {
   height: 100%;
   margin: 0;
-  font-family: Ariel;
+  font-family: Arial;
 }
 
 .tablink {
@@ -94,8 +94,8 @@ body, html {
   cursor: pointer;
   padding: 14px 16px;
   font-size: 17px;
-  width:33%;
-  font-family: "Sansita Swashed", system-ui;
+  width:33.33%;
+  font-family: "Sansita Swashed", sans-serif;
 }
 
 .tablink:hover {
