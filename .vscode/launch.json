@@ -11,7 +11,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against hugocoding6",
-            "url": "https://hugocoding6.github.io/",
+            "url": "https://hugoswebsite.github.io/",
             "webRoot": "${workspaceFolder}"
         }
     ]
